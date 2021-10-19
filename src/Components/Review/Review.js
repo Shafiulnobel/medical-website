@@ -8,7 +8,7 @@ import img_3 from '../../images/photo-1622253692010-333f2da6031d.jpg'
 const Review = () => {
     return (
         <div>
-            <h1 className="my-5">What People Say About Us</h1>
+            <h1 className="my-5">What People Say About Us!</h1>
             <Container className="">
            
       <Row lg={2} xs={1} md={1} className="bg-warning py-5 d-flex align-items-center my-5">
